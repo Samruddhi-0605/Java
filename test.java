@@ -9,7 +9,7 @@ public class Prgm4 {
 	{
 		
 	//selenium
-	System.out.println("WebLoginHomloan");
+	System.out.println("Rahul WebLoginHomloan");
 	}
 	
 	@Test
